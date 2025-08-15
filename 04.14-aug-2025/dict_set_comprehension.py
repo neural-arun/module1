@@ -1,0 +1,1 @@
+print("ohh it was a fucked up day , good night.")
